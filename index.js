@@ -166,7 +166,7 @@ function alerta() {
 }
 
 function restear() {
-    location.href = 'https://www.facebook.com'
+    location.href = 'https://scharss.github.io/z3/'
 
 }
 
